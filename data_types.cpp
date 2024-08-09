@@ -1,5 +1,6 @@
 //Ayush Shambharkar
 //23070123034
+//Aim - Verifying Data Types in CPP
 
 #include<iostream>
 #include<string>
@@ -29,7 +30,9 @@ int main ()
     cout<<"Size of name: "<<sizeof(g)<<endl;
 }
 
-/*Enter the value of int d: 5786
+/*
+OUTPUT:
+Enter the value of int d: 5786
 D = 5786
 Enter the vlue of float c: 56.435
 C = 56.435
@@ -37,4 +40,5 @@ Enter the character z: a
 Z = a
 Enter your name: Ayush Shambharkar
 Name: AyushShambharkar
-Size of name: 24*/
+Size of name: 24
+*/
